@@ -8,7 +8,7 @@ open System.Runtime.InteropServices
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [<assembly: AssemblyTitle("Dawg")>]
-[<assembly: AssemblyDescription("An implementation of a classic Subword Graph (also known as Directed Acyclic Word Graph).")>]
+[<assembly: AssemblyDescription("An implementation of a classic Subword Graph (also known as Directed Acyclic Word Graph) data structure for solving complex string related problems on a single word.")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
 [<assembly: AssemblyProduct("Dawg")>]
